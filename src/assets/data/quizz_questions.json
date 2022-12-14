@@ -3,18 +3,17 @@
   "questions":[
     {
       "id":1,
-      "question": "Qual referência de piloto você escolheria ?",
+      "question": "Qual piloto se assemelha a você ?",
       "options":[
         {"id": 1, "name":"Ayrton Senna", "alias":"A"},
         {"id": 2, "name":"Nicholas Latifi", "alias":"B"},
         {"id": 3, "name":"Rubens Barrichello", "alias":"A"},
-        {"id": 4, "name":"Nikita Mazepin", "alias":"B"},
-        {"id": 5, "name":"Felipe Drugovich", "alias":"A"}
+        {"id": 4, "name":"Nikita Mazepin", "alias":"B"}
       ]
     },
     {
       "id":2,
-      "question": "Qual título você prefere ?",
+      "question": "Qual título você teria ?",
       "options":[
         {"id": 1, "name":"1 título mundial de Fórmula 1", "alias":"A"},
         {"id": 2, "name":"5 títulos de stock car", "alias":"A"},
@@ -28,7 +27,7 @@
         {"id": 1, "name":"Ser mais rápido nas retas", "alias":"B"},
         {"id": 2, "name":"Disputar curvas", "alias":"A"},
         {"id": 3, "name":"Tempo de reação", "alias":"A"},
-        {"id": 4, "name":"Divebomb", "alias":"B"}
+          {"id": 4, "name":"Divebomb", "alias":"A"}
       ]
     },
     {
@@ -41,7 +40,7 @@
     },
     {
       "id":5,
-      "question": "Qual apelido de piloto você prefere?",
+      "question": "Qual apelido de piloto você gostaria de ter?",
       "options":[
         {"id": 1, "name":"Senna", "alias":"A"},
         {"id": 2, "name":"Mazepin", "alias":"B"}
