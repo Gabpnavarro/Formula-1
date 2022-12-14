@@ -1,5 +1,5 @@
 {
-  "title":"Você seria um piloto de F1 ou uma velhinha no transito ?",
+  "title":"Você seria um piloto de Fórmula 1 ou uma velhinha no trânsito ?",
   "questions":[
     {
       "id":1,
@@ -16,7 +16,7 @@
       "id":2,
       "question": "Qual título você prefere ?",
       "options":[
-        {"id": 1, "name":"1 título mundial de F1", "alias":"A"},
+        {"id": 1, "name":"1 título mundial de Fórmula 1", "alias":"A"},
         {"id": 2, "name":"5 títulos de stock car", "alias":"A"},
         {"id": 3, "name":"10 títulos de kart do shopping da minha cidade", "alias":"B"}
       ]
@@ -41,7 +41,7 @@
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de piloto ?",
+      "question": "Qual apelido de piloto você prefere?",
       "options":[
         {"id": 1, "name":"Senna", "alias":"A"},
         {"id": 2, "name":"Mazepin", "alias":"B"}
@@ -49,7 +49,7 @@
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um piloto de formula 1!",
+    "A": "Você muito provavelmente seria um piloto de fórmula 1!",
     "B": "Você muito provavelmente seria uma velhinha no trânsito!"
   }
 }
